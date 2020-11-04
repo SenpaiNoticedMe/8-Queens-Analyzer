@@ -12,7 +12,7 @@ Description - A program that places 8 queens on an nxn board (already set up for
               It implements the solution by using the Hill-Climbing algorithm with random restarts.
               For loops are mainly used to analyze and modift the array-represented board.
 */        
-public class Eight_Queens_Project {
+public class NxN_Queens_Analyzer {
    /**
    Methood - main
    Description - Main functions.
