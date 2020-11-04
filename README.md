@@ -3,7 +3,7 @@ Hosts an array analyzer program.
 The nxn queens problem is solved.
 
 It uses a/an : Array search algorithm
-               Manhattan heuristic
+               \n Manhattan heuristic
                Heuristic function
                Greedy search algorithm
  
