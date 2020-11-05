@@ -7,7 +7,7 @@ Project 1
 import java.util.Random;
 
 /** 
-Public class - Eight_Queens_Program.
+Public class - NxN_Queens_Analyzer.java.
 Description - A program that places 8 queens on an nxn board (already set up for 8)where none of the queens are in conflict with each other.  
               It implements the solution by using the Hill-Climbing algorithm with random restarts.
               For loops are mainly used to analyze and modift the array-represented board.
